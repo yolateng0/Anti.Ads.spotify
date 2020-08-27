@@ -1,5 +1,5 @@
 # Anti.Ads.spotify
-List Anti Ads Spotify 127.0.0.1 for Adaway or Ublock (Android , Firefox , Linux
+# List Anti Ads Spotify 127.0.0.1 >>>> Adaway or Ublock (Android , Exension Firefox , Linux Host)
 
 # Title: CHEF-KOCH's HOSTS Spotify Ad-Filter List
 # Description: Blocks all Spotify Ads, easy peasy lemon squeezy!
